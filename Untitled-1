@@ -1,0 +1,41 @@
+
+
+variables
+
+password length  8--128
+lowercase 
+uppercase
+numeric
+special characters
+-----------------------------
+
+prompt the user to input length
+
+prompt the user to confirm lowercase , uppercase , numeric, special characters
+
+generate password with 
+
+new array with variables selected
+
+create random generator    
+
+function random() {
+  var randIndex = Math.floor(Math.random() * length.length);
+}
+
+for loop to generate  the amount of "length" with 
+
+add event listener
+
+
+
+
+
+
+
+
+
+
+
+
+
